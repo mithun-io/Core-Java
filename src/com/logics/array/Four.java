@@ -48,3 +48,8 @@ public class Four {
         f.thirdMin();
     }
 }
+
+/*
+Output:
+Third minimum value is 30
+*/

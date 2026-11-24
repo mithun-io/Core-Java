@@ -50,3 +50,8 @@ public class Three {
         thirdMax();
     }
 }
+
+/*
+Output:
+Third maximum element is 50
+*/
