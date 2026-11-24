@@ -1,4 +1,4 @@
-package com.Basics;
+package com.basics;
 
 // Write a program to print "Hello World!"
 public class HelloWorld {

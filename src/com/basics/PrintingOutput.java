@@ -1,4 +1,4 @@
-package com.Basics;
+package com.basics;
 
 // Write a program provides the standard output stream System.out for displaying information on the console
 public class PrintingOutput {
